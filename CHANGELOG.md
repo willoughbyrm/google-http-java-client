@@ -1,5 +1,24 @@
 # Changelog
 
+### [1.39.3](https://www.github.com/googleapis/google-http-java-client/compare/v1.39.2...v1.39.3) (2021-04-30)
+
+
+### Bug Fixes
+
+* release scripts from issuing overlapping phases ([#1344](https://www.github.com/googleapis/google-http-java-client/issues/1344)) ([539407e](https://www.github.com/googleapis/google-http-java-client/commit/539407ef7133df7f5b1e0f371c673dbc75e79ff2))
+* test error responses such as 403 ([#1345](https://www.github.com/googleapis/google-http-java-client/issues/1345)) ([a83c43f](https://www.github.com/googleapis/google-http-java-client/commit/a83c43fa86966ca1be625086a211211e3861f7b1))
+* typo ([#1342](https://www.github.com/googleapis/google-http-java-client/issues/1342)) ([2bbc0e4](https://www.github.com/googleapis/google-http-java-client/commit/2bbc0e4b77ab2c9956b0a65af0e927d5052a7752))
+
+
+### Dependencies
+
+* update dependency com.fasterxml.jackson.core:jackson-core to v2.12.3 ([#1340](https://www.github.com/googleapis/google-http-java-client/issues/1340)) ([81e479a](https://www.github.com/googleapis/google-http-java-client/commit/81e479ac59797ad49e503eb2d41ff17c9cb77d7b))
+
+
+### Documentation
+
+* libraries-bom 20.1.0 ([#1347](https://www.github.com/googleapis/google-http-java-client/issues/1347)) ([2570889](https://www.github.com/googleapis/google-http-java-client/commit/2570889e95c7c3bf26d5666dc69a7bb09efd7655))
+
 ### [1.39.2](https://www.github.com/googleapis/google-http-java-client/compare/v1.39.1...v1.39.2) (2021-04-09)
 
 
